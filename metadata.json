@@ -1,0 +1,6 @@
+{
+  "name": "LexisBand — IELTS Reading Mastery",
+  "description": "Nền tảng luyện thi IELTS Reading từ Band 4.5 đến 9.0 với kho đề đa dạng, tự chấm điểm, giải thích chi tiết, từ vựng theo bài đọc, chiến lược Skim/Scan, bảng xếp hạng và chế độ học ngoại tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
